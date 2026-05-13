@@ -1,5 +1,3 @@
-# RP_Sueiro_Suances_Diaz_25
-
 # Space Invaders
 
 **Space Invaders** is a space shooter game that has been built with Python and Pygame. It consists of eliminating the enemies that will be falling from the upper part of the screen. There are different levels of difficulty, making the game more complicated when completing levels.
